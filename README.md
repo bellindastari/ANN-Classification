@@ -49,7 +49,7 @@ The trained **Neural Network model** achieves:
 
 ## **Paper Reference**  
 For a detailed explanation of the methodology and results, please refer to the full research paper:  
-📄 **[Klasifikasi Jenis Kanker Payudara Menggunakan Pendekatan Model pada Machine Learning](./Klasifikasi_Jenis_Kanker_Payudara.pdf)**  
+📄 **[Klasifikasi Jenis Kanker Payudara Menggunakan Pendekatan Model pada Machine Learning](https://drive.google.com/file/d/1YpbRXS3Spk6ZF-Ir6H4wXPKgCgXR5WM6/view?usp=sharing)**  
 
 ## **Contributors**  
 - **Deanarani Kharisma**  
