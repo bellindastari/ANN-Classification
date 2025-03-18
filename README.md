@@ -35,8 +35,8 @@ pip install tensorflow keras numpy pandas matplotlib scikit-learn
 ## **How to Use**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/breast-cancer-classification.git
-   cd breast-cancer-classification
+   git clone https://github.com/bellindastari/ANN-Classification.git
+   cd ANN-Classification
    ```  
 2. Open the Jupyter Notebook or Google Colab.  
 3. Run the **main script** to train and evaluate the model.  
