@@ -54,5 +54,8 @@ For a detailed explanation of the methodology and results, please refer to the f
 ## **Contributors**  
 - **Deanarani Kharisma**  
 - **Dimas Satrio Adjie**  
-- **Roswita Bellinda**  
-- **Salsabila H. Sastro**  
+- **Roswita Bellinda Astari**  
+- **Salsabila H. Sastro**
+  
+## License  
+This project is intended for **academic purposes** and is **not** for commercial use.
